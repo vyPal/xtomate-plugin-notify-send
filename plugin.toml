@@ -1,4 +1,4 @@
-name = "notify-send"
+name = "notify_send"
 version = "0.1.0"
 build = "cargo build --release"
 output_dir = "target/release"
